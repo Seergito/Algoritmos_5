@@ -4,7 +4,7 @@
 
 ## Descripción General
 
-Este repositorio contiene implementaciones de varios algoritmos clásicos relacionados con grafos. Estos algoritmos resuelven problemas como el árbol de expansión mínima, la ruta del viajante, y el coloreo de grafos. El código está escrito en Java y utiliza estructuras como listas enlazadas y listas de adyacencia para representar los grafos y sus elementos.
+Este repositorio contiene implementaciones de varios algoritmos clásicos relacionados con grafos. Estos algoritmos resuelven problemas como el árbol de expansión mínima y la ruta del viajante.
 
 ---
 
